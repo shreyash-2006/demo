@@ -1,4 +1,6 @@
 # demo
 first repo for learning
 <br>
-by shreyash bhor
+first we need to add chnage then commit it to update it permanently.
+<br>
+
